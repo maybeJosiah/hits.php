@@ -4,8 +4,9 @@
 function customErrorXE($errno, $errstr) {
   echo 'Error with page view count:' . $errno . ' message:' . $errstr . ' X E.';
   //5/14/2024, 9:23AM, making fixes. 9:27AM, done. X E. 12:02PM, fix. X E.
-  //die();
+  //X E
 }
+//X E
 //set error handler
 set_error_handler('customErrorXE');
 //5/28/2024, 11:05AM, fix.
